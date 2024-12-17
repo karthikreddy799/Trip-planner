@@ -267,14 +267,6 @@ The roadmap represents the challenges and updates that I plan to implement in th
 </br>
 <div align="center">
 
-## Contributing
-
-</div>
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are <b>greatly appreciated</b>. <br />
-
-<p>Or Maybe you can just  <a href="https://buymeacoffee.com/satendra03" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00.svg?style=for-the-badge&logo=Buy-Me-A-Coffee&logoColor=black"></a></p>
-
-If you have an idea or feature that would make this project even better, please feel free to contribute. Whether it's fixing bugs, adding new features, improving documentation, or anything else, your help is welcome!
 
 ### How to Contribute:
 
@@ -345,6 +337,4 @@ We’d love to hear from you! Whether you have a question, suggestion, or issue 
 3. **Social Media**:
    - **Instagram**: [karthik.nalamalapu](https://www.instagram.com/karthik.nalamalapu/)
    - **LinkedIn**: [Karthik](https://www.linkedin.com/in/karthik-reddy-nalamalapu-279743275/)
-4. **Buy Me A Coffee**:
-   - **Small Contibution**:  <a href="https://buymeacoffee.com/satendra03" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00.svg?style=for-the-badge&logo=Buy-Me-A-Coffee&logoColor=black"></a>
----
+
