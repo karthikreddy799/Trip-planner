@@ -337,14 +337,14 @@ We’d love to hear from you! Whether you have a question, suggestion, or issue 
 ### Ways to Contact Us:
 
 1. **GitHub Issues**: You can open an issue directly on this repository for bugs, feature requests, or general inquiries.
-   - [Open an Issue](https://github.com/satendra03/trip-planner-by-satendra/issues)
+   - [Open an Issue](https://github.com/karthikreddy799)
 
 2. **Email**: Reach out to us via email at:
-   - **satendrakumarparteti.work@gmail.com** 
+   - **nalamalapukarthik@gmail.com** 
 
 3. **Social Media**:
-   - **Instagram**: [@_satendra_03](https://www.instagram.com/_satendra_03/)
-   - **LinkedIn**: [Satendra Kumar Parteti](https://www.linkedin.com/in/connect-satendra/)
+   - **Instagram**: [karthik.nalamalapu](https://www.instagram.com/karthik.nalamalapu/)
+   - **LinkedIn**: [Karthik](https://www.linkedin.com/in/karthik-reddy-nalamalapu-279743275/)
 4. **Buy Me A Coffee**:
    - **Small Contibution**:  <a href="https://buymeacoffee.com/satendra03" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00.svg?style=for-the-badge&logo=Buy-Me-A-Coffee&logoColor=black"></a>
 ---
